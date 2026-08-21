@@ -1,6 +1,6 @@
 # UPI Digital Payments — Complaint & SLA Analytics Dashboard
 
-**A Data Analyst portfolio project:** an end-to-end pipeline that turns 15,700+ raw digital-payments
+**A project I built to learn analytics engineering end to end:** an end-to-end pipeline that turns 15,700+ raw digital-payments
 support tickets into a clean SQL database, an interactive dashboard, and a data-backed root-cause
 analysis — built to mirror the real complaint-and-SLA operations of a live UPI payments product.
 
@@ -178,7 +178,7 @@ to run on a recurring basis (e.g., via Airflow) rather than on-demand.
 
 ---
 
-## 9. Skills Demonstrated
+## 9. What I Learned Building This
 
 Data Analysis · Data Cleaning & Validation · SQL (star-schema design, aggregation, window-style
 grouping) · Root-Cause Analysis · KPI Reporting · Dashboard Design (Streamlit, Excel) · Python
